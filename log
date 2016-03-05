@@ -1,0 +1,125 @@
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59630
+data socket get success
+bind successlisten success
+PASV listen IP : 0.0.0.0 Port : 49733
+client leave the server, IP : 127.0.0.1 Port : 59630
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59631
+data socket get success
+bind successlisten success
+PASV listen IP : 127.0.0.1 Port : 44036
+client leave the server, IP : 127.0.0.1 Port : 59631
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59632
+recv msg from client error, IP : H Port : 59632 Socket : -467523656
+get server socket successed, sock num is 3
+server bind addr failed, ip is 127.0.0.1, port is 9999
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59634
+recv msg from client error, IP : ÿ Port : 59634 Socket : -138717256
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59643
+recv msg from client error, IP : ÿ Port : 59643 Socket : -138717256
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59646
+recv msg from client error, IP : ÿ Port : 59646 Socket : -138717256
+get server socket successed, sock num is 3
+server bind addr failed, ip is 127.0.0.1, port is 9999
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59647
+someone connect to server, socket : 5, IP : 127.0.0.1, port : 59648
+popen invoke success
+send data failed
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59661
+client leave the server, IP : 127.0.0.1 Port : 59661
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59662
+client leave the server, IP : 127.0.0.1 Port : 59662
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59663
+client leave the server, IP : 127.0.0.1 Port : 59663
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59664
+client leave the server, IP : 127.0.0.1 Port : 59664
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59665
+client leave the server, IP : 127.0.0.1 Port : 59665
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59666
+client leave the server, IP : 127.0.0.1 Port : 59666
+someone connect to server, socket : 5, IP : 127.0.0.1, port : 59737
+client leave the server, IP : 127.0.0.1 Port : 59737
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59738
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59739
+get server socket successed, sock num is 3
+server bind addr failed, ip is 127.0.0.1, port is 9999
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59741
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59119
+someone connect to server, socket : 5, IP : 127.0.0.1, port : 59124
+client leave the server, IP : 127.0.0.1 Port : 59119
+someone connect to server, socket : 6, IP : 127.0.0.1, port : 59128
+recv msg from client error, IP : 127.0.0.1 Port : 59128 Socket : 6
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59138
+client leave the server, IP : 127.0.0.1 Port : 59124
+get server socket successed, sock num is 3
+server bind addr success
+listen success
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59746
+someone connect to server, socket : 5, IP : 127.0.0.1, port : 59751
+client leave the server, IP : 127.0.0.1 Port : 59751
+client leave the server, IP : 127.0.0.1 Port : 59746
+someone connect to server, socket : 6, IP : 127.0.0.1, port : 59756
+client leave the server, IP : 127.0.0.1 Port : 59756
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59847
+someone connect to server, socket : 5, IP : 127.0.0.1, port : 59869
+client leave the server, IP : 127.0.0.1 Port : 59869
+client leave the server, IP : 127.0.0.1 Port : 59847
+someone connect to server, socket : 6, IP : 127.0.0.1, port : 59878
+client leave the server, IP : 127.0.0.1 Port : 59878
+someone connect to server, socket : 4, IP : 127.0.0.1, port : 59889
+client leave the server, IP : 127.0.0.1 Port : 59889
+someone connect to server, socket : 5, IP : 127.0.0.1, port : 59895
+client leave the server, IP : 127.0.0.1 Port : 59895
